@@ -39,7 +39,7 @@ main {
     margin-bottom: 2px;
     border-radius:0;
     border:2px solid rgb(175, 175, 175);
-    transition: background 1s ease-in-out;
+/*    transition: background 1s ease-in-out; */
 }
 .btn:hover {
     background: rgb(109, 109, 109);
@@ -56,7 +56,7 @@ main {
     border-radius: 0;
     background:rgb(132, 197, 228);
     color:aliceblue;
-    transition: background 1s ease-in-out, font-weight 1s ease-in-out;
+    /* transition: background 1s ease-in-out, font-weight 1s ease-in-out; */
 }
 .btnplus:hover {
     background: rgb(52, 103, 197);
